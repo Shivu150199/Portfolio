@@ -1,0 +1,42 @@
+/* if screen is less than 350 px */
+@media only screen and (max-width:340px){.subscribe-title,.site-title,.subscribe,.service-area,.site-banner,.about-area{
+padding: 2%;
+margin: auto;
+width:100%;
+
+
+}
+.experience-area{
+    display:none
+}
+/* .service-list{
+    width:100%;
+} */
+
+.site-main{
+    width:100%;
+
+} 
+.form-control{
+    width:16rem;
+
+}
+.subscribe,footer,.service-list{
+    margin-left: 2rem;
+}
+.sub-btn button{
+    margin:1rem
+}  
+.services{
+    margin: 1rem;
+}
+.logo-image{
+    width:3rem;
+    padding: 0;
+
+}
+.main-menu{
+    width:100%
+}
+}
+
